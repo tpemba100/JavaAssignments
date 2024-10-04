@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAssignments.iml" filepath="$PROJECT_DIR$/.idea/JavaAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOperators/JavaOperators.iml" filepath="$PROJECT_DIR$/JavaOperators/JavaOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopPA303.5.1/LoopPA303.5.1.iml" filepath="$PROJECT_DIR$/LoopPA303.5.1/LoopPA303.5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+    </modules>
+  </component>
+</project>
