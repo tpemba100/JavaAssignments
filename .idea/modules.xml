@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaOperators/JavaOperators.iml" filepath="$PROJECT_DIR$/JavaOperators/JavaOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopPA303.5.1/LoopPA303.5.1.iml" filepath="$PROJECT_DIR$/LoopPA303.5.1/LoopPA303.5.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
     </modules>
   </component>
 </project>
