@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TaxBracket {
-
+        //calculator that takes filling status and income
     public static double calculateTax(String filingStatus, double income) {
         double tax = 0.0;
         double[][] brackets;
@@ -31,6 +31,7 @@ public class TaxBracket {
                 return -1;
         }
 
+        //based on new bracket, we take each bracket and check if the income is within each bracket and calculate
         double previousLimit = 0;
         for (double[] bracket : brackets) {
             double limit = bracket[0];
@@ -43,7 +44,6 @@ public class TaxBracket {
                 break;
             }
         }
-
         return tax;
     }
 
